@@ -1,5 +1,5 @@
 {
-  "name": "HASHAN-MD",
+  "name": "DARKLION-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ hashan sathsara",
   "logo": "https://endpoint.web.id/server/file/8Cmyffly1bMBLr.jpg",
   "keywords": ["bot"],
@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "yqhHQJCT#dcIh3qg9T_0XjSa7jr0wUut2BNSp4y1_Y2Ndmi-nssg",
       "required": true,
-      "value": ""
+      "value": "yqhHQJCT#dcIh3qg9T_0XjSa7jr0wUut2BNSp4y1_Y2Ndmi-nssg"
     },  
     
     "ALIVE_IMG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "HASHAN-MD"
+      "value": "DARKLION-MD"
     }, 
 
     "HEART_REACT": {
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY HASHAN-MD"
+      "value": "POWERED BY DARKLION-MD"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "STATUS VIEW BY HASHAN MD V1"
+      "value": "STATUS VIEW BY DARKLION MD V1"
     }
 
 
